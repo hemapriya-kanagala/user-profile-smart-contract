@@ -35,3 +35,8 @@ I tested and deployed this contract on **Remix**, which is an online tool for wr
    - First, register yourself.
    - Then use `getProfile()` to see your info.
    - You can also try updating your profile.
+## 📷 Screenshot from Remix
+
+Here’s what the contract and deployment look like in Remix:
+
+![Remix Contract Screenshot](https://github.com/hemapriya-kanagala/user-profile-smart-contract/blob/main/remix_contract_screenshot.png?raw=true)
